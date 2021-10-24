@@ -1,0 +1,17 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "webpack": "^5.59.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
